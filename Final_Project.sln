@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decompression", "ConsoleApp1\Decompression.csproj", "{79AE4F72-2D01-46B0-8015-E48D2F8FC88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compression", "Compression\Compression.csproj", "{9169B0BE-9C56-4FDC-832B-2D721D0C253D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AE4F72-2D01-46B0-8015-E48D2F8FC88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AE4F72-2D01-46B0-8015-E48D2F8FC88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AE4F72-2D01-46B0-8015-E48D2F8FC88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AE4F72-2D01-46B0-8015-E48D2F8FC88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9169B0BE-9C56-4FDC-832B-2D721D0C253D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9169B0BE-9C56-4FDC-832B-2D721D0C253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9169B0BE-9C56-4FDC-832B-2D721D0C253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9169B0BE-9C56-4FDC-832B-2D721D0C253D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226D3AE2-B1C1-4C20-B7E8-B183CE8CA0A5}
+	EndGlobalSection
+EndGlobal

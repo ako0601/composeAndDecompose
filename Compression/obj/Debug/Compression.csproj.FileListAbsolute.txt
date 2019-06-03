@@ -1,0 +1,13 @@
+G:\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+G:\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+G:\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+G:\Final_Project\Final_Project\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+G:\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+G:\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+E:\Final_Project\Compression\bin\Debug\Final_Project.exe.config
+E:\Final_Project\Compression\bin\Debug\Final_Project.exe
+E:\Final_Project\Compression\bin\Debug\Final_Project.pdb
+E:\Final_Project\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
+E:\Final_Project\Compression\obj\Debug\Final_Project.exe
+E:\Final_Project\Compression\obj\Debug\Final_Project.pdb
+E:\Final_Project\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
